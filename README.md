@@ -3,7 +3,7 @@
 - Hi, I’m @gyorama
 - My username is just a set of random letters
 - Currently learning C
-- Planning to make something when time is right
+- Planning to make something
 
 <!---
 gyorama/gyorama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

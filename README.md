@@ -2,8 +2,8 @@
 
 - Hi, I’m @gyorama
 - My username is just a set of random letters
-- Currently learning C
-- Planning to make something
+- Currently learning C and Assembly
+- Working on a GTK text editor
 
 <!---
 gyorama/gyorama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

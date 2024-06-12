@@ -2,7 +2,7 @@
 
 - Hi, I’m @gyorama
 - My username is just a set of random letters
-- Currently learning C and Assembly
+- Currently learning C
 - Working on a GTK text editor
 
 <!---

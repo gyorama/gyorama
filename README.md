@@ -2,7 +2,7 @@
 
 - Hi, I’m @gyorama
 - My username is just a set of random letters
-- Currently learning C
+- Currently learning C and Haskell
 - I love turning everything into an acronym
 - I love C
 
